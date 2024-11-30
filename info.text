@@ -9,6 +9,9 @@ there are two types of projects in rust
 
 3. run cargo: the command is : cargo run
 4. functions, conditinals, signed unsigned integer, calling the function
+5. mutable variables:
+    : whose values can change, let mut number = 5;
+    : any variable that is defined in rust is by default a constant
 
 
 
